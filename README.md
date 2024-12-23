@@ -41,11 +41,10 @@ I'm a **Python Developer** with a strong focus on building scalable, secure, and
 
 ## Mission Statement
 
-- **My goal is to use my coding skills to create software that solves real-world problems and leverages technology as a tool for positive change**
+- **My goal is to use my coding skills to create application that solves real-world problems and leverages technology as a tool for positive change**
 
 
 ---
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Pranav Kulkarni](https://www.linkedin.com/in/pranav-kulkarni-865417231)  
-- **GitHub:** [PranavKulkarnipy](https://github.com/PranavKulkarnipy)
